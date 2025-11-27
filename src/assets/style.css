@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/* Global app styling */
+body {
+  font-family: system-ui, sans-serif;
+  background: #f7fbfc;
+  color: #1a1a1a;
+}
+
+/* Smooth transitions on interactive elements */
+button,
+input {
+  transition: 0.2s ease;
+}
